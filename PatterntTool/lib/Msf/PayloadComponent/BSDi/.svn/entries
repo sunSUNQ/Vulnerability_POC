@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1677"
+   name=""
+   committed-date="2004-12-25T10:09:49.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent/BSDi"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1609"
+   name="FindRecvStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T08:18:57.000000Z"
+   checksum="58106b8c928a49bb1487d10045bb0000"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1609"
+   name="Payload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T08:18:57.000000Z"
+   checksum="234bc895d786a6cfb79b5e7f45a2eaab"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1609"
+   name="StagePayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T08:18:57.000000Z"
+   checksum="434449823a0f501183c51f1dfa7e3c24"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="ReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="159d28942e49b18387a53c77d2c703bc"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1609"
+   name="BindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T08:18:57.000000Z"
+   checksum="0a7db2c38b20501a81e864727410cf68"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="ia32"
+   kind="dir"/>
+</wc-entries>

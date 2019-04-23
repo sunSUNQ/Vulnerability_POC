@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2205"
+   name=""
+   committed-date="2005-09-21T19:44:23.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex/Socket"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="2205"
+   name="Tcp.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-09-21T19:44:23.000000Z"
+   checksum="b991bd4ab3fd8cd9a5e04ff1ce5153ce"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="SSLTcp.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="cf1497ee924143677bb01fb21d26d892"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1994"
+   name="Socket.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-03-01T09:35:52.000000Z"
+   checksum="2ee79c16b0d6ea77a30a0b8432a00f29"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Udp.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="f382c2a6ea40fcb496456ca53ebcd6c2"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="RawUdp.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="e988c45175eee3c57e8339ab7b8ed08d"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1779"
+   name=""
+   committed-date="2005-01-04T19:32:28.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/Encoder"
+   last-author="spoonm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1779"
+   name="_Sparc.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-04T19:32:28.000000Z"
+   checksum="d3addea3fda9e82a5ec44c00b8931ab7"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1744"
+   name="XorDword.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-02T03:40:35.000000Z"
+   checksum="d68c70230a29fc260949c1fe12aae6b5"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="SkyAlphaNum.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="5e344d6eaf12da5a2df2a101c1bee391"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

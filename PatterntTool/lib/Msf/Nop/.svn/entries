@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2056"
+   name=""
+   committed-date="2005-04-24T22:33:55.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/Nop"
+   last-author="spoonm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="2044"
+   name="OptyNop2Tables.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-04-20T18:21:22.000000Z"
+   checksum="7732a0313cbd88baf33c7cedf4a62b58"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2044"
+   name="OptyNop2.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-04-20T18:21:22.000000Z"
+   checksum="03a3ad945c9fd3abad7792198342be73"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

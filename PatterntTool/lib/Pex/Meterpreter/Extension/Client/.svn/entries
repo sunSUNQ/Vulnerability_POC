@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2234"
+   name=""
+   committed-date="2005-11-27T07:20:32.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex/Meterpreter/Extension/Client"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1677"
+   name="Net.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="6c5a1b8c83bfbba6589a3b4b308244ea"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Fs.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="f4836d027040617800193fa7a1bc276b"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Boiler.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="30e347d71bb2fdc5703a2caba6cdd9d5"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Process.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="ec0b7a457a2b630047e7271afb98733d"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1699"
+   name="Sys.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-26T22:07:46.000000Z"
+   checksum="4b4764fad1c46471c4c614c8fa658e55"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2234"
+   name="Sam.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-11-27T07:20:32.000000Z"
+   checksum="e133696c503d875c5543405768e6f0d7"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

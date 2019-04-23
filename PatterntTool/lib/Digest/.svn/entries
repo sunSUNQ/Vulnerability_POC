@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2183"
+   name=""
+   committed-date="2005-08-12T01:47:14.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Digest"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="2183"
+   name="HMAC_SHA1.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-12T01:47:14.000000Z"
+   checksum="f9bfb7dfc09573bd4cd826e931d4612c"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Perl"
+   kind="dir"/>
+<entry
+   committed-rev="2183"
+   name="HMAC.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-12T01:47:14.000000Z"
+   checksum="90afcf69e04e66d04258d57386a1ee7d"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2183"
+   name="HMAC_MD5.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-12T01:47:14.000000Z"
+   checksum="8c84c38079c939921983f597bbab6a14"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

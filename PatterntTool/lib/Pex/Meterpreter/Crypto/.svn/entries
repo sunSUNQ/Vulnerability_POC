@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1677"
+   name=""
+   committed-date="2004-12-25T10:09:49.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex/Meterpreter/Crypto"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1677"
+   name="Xor.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="ed956ece4539d3224b151cf1790fbfce"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

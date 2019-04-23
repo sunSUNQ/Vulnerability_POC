@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1654"
+   name=""
+   committed-date="2004-12-21T17:58:58.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent/BSDi/ia32"
+   last-author="mmiller"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1654"
+   name="ShellStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-21T17:58:58.000000Z"
+   checksum="ff537cbb1682213ff87fc2dcfc217719"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1609"
+   name="ReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T08:18:57.000000Z"
+   checksum="4f2282dbd36d255b01d3be67041d314f"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1609"
+   name="BindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T08:18:57.000000Z"
+   checksum="101551f88b85f68ac9026b26fc39e4a1"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

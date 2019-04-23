@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4082"
+   name=""
+   committed-date="2006-10-29T00:43:28.941289Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   name="BSDi"
+   kind="dir"/>
+<entry
+   committed-rev="2088"
+   name="TextConsole.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-05-08T22:18:30.000000Z"
+   checksum="b74100b46a895e5fe67e74f62f396d21"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1510"
+   name="SolarisStagePayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-05T08:03:56.000000Z"
+   checksum="6b49fd1a951bdf61817b63a48d25bb69"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="InlineEggPayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="ac318bb4e4db96daed61a4e4943b047b"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1422"
+   name="SolarisReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-11-11T22:27:04.000000Z"
+   checksum="64d6169f2797fc1d217f707704066dba"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Windows"
+   kind="dir"/>
+<entry
+   committed-rev="1923"
+   name="SolarisBindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-22T20:10:00.000000Z"
+   checksum="9c5411e58c05a111f252619db75129d3"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1857"
+   name="FindRecvConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-09T07:23:50.000000Z"
+   checksum="a09cb1cfccddb7271dfbca0c64e6f550"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2091"
+   name="PassiveXConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-05-09T02:50:41.000000Z"
+   checksum="c15e2396881c4e2f433b69d9b85e2a5a"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1933"
+   name="FindLocalShell.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-25T08:19:06.000000Z"
+   checksum="50f7180aff9a0836de5590f6177fa64a"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1923"
+   name="SolarisFindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-22T20:10:00.000000Z"
+   checksum="e0940035c5941c4ac975389c49fcd631"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Linux"
+   kind="dir"/>
+<entry
+   committed-rev="1677"
+   name="SolarisPayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="94a96810ed31cbe6851bc47d2b06f6bd"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="DoubleReverseConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="e7936c05a8cbe24de6db1ad83c35d7d4"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1422"
+   name="CommandPayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-11-11T22:27:04.000000Z"
+   checksum="f2d3ff497edd51de655779fe9fa14975"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1336"
+   name="SolarisShellStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-11-06T22:23:10.000000Z"
+   checksum="2de7ea6148db2c6a5cce79c5e4a0ccde"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1859"
+   name="ReverseConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-09T07:37:10.000000Z"
+   checksum="226417b332bf98380bb673abc457bbe7"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="NoConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="34839ddd5be1c9d87d921d7d1a2752a3"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="ExternalPayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="02191601309795107287d50e7f465d3c"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="BindConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="a3594298b4505652fa96d22a235a29e4"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="BSD"
+   kind="dir"/>
+<entry
+   committed-rev="2010"
+   name="ConnectionHandler.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-03-09T04:39:00.000000Z"
+   checksum="579be08e2e7b23236962f5af4f05db3f"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="OSX"
+   kind="dir"/>
+<entry
+   committed-rev="2088"
+   name="FindConnection.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-05-08T22:18:30.000000Z"
+   checksum="cf9478c18fd9f8d85e656a1fc4616bb4"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1897"
+   name="WebConsole.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-11T08:45:38.000000Z"
+   checksum="2ddfdd4b23fea9379b4ffd5100aa150e"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2088"
+   name="Console.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-05-08T22:18:30.000000Z"
+   checksum="f1e4fef38746b8911aeef3f9ba0103aa"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

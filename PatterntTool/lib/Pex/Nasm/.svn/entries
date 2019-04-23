@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="857"
+   name=""
+   committed-date="2004-06-24T06:49:41.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex/Nasm"
+   last-author="spoonm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="857"
+   name="Nasm.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-06-24T06:49:41.000000Z"
+   checksum="ef1181dbe82ab6f3505bb995a72340ce"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="857"
+   name="Ndisasm.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-06-24T06:49:41.000000Z"
+   checksum="6b63cc836bc3ae6116623e094bc70346"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="857"
+   name="Instruction.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-06-24T06:49:41.000000Z"
+   checksum="9ce4c2f0009c3b49c46f43c04388798f"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

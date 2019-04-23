@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1636"
+   name=""
+   committed-date="2004-12-19T06:05:25.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent/BSD/ia32"
+   last-author="mmiller"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1607"
+   name="FindRecvStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T06:57:34.000000Z"
+   checksum="bc644280c41f7a34587c730fd8408114"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1636"
+   name="ShellStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-19T06:05:25.000000Z"
+   checksum="4fb3c35ebebfd19a1a3a9278db9ed355"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1607"
+   name="ReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T06:57:34.000000Z"
+   checksum="1a70767a3884842c66719993bbf13ddf"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1607"
+   name="BindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T06:57:34.000000Z"
+   checksum="3c4a18b19518dd3032286da1255c7dd3"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

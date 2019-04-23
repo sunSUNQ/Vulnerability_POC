@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1677"
+   name=""
+   committed-date="2004-12-25T10:09:49.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/NetPacket"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="486"
+   name="TCP.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="e749e633483c603f3424d9558e3d96c3"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="486"
+   name="ICMP.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="ed7eb56c1aa3b6cc590e63054e02cf77"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="486"
+   name="IP.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="0cdff1b4fb8238d7b0cdd9d9e9dd7197"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="UDP.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="34ce52412139038e275cbb1453f3ee94"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="486"
+   name="IGMP.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="a01e85695359269a71dd8c0744ad58aa"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="486"
+   name="Ethernet.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="7f830230793afcacb3826a6e5d640be4"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="486"
+   name="ARP.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="ddb85928900efa5e0b6179b780bbc2f3"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+</wc-entries>

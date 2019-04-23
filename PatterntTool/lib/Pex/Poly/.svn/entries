@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1217"
+   name=""
+   committed-date="2004-09-17T13:44:55.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex/Poly"
+   last-author="spoonm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1217"
+   name="BlockMaster.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-09-17T13:44:55.000000Z"
+   checksum="b73f21bd2259aaad26057b04c2e852b8"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="BlockMaster"
+   kind="dir"/>
+<entry
+   committed-rev="779"
+   name="WannaCracker.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-06-13T09:54:31.000000Z"
+   checksum="896113fab411f05db49ab890d9a6f4ee"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="779"
+   name="DeltaKing.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-06-13T09:54:31.000000Z"
+   checksum="3f8900a005c416db928f97e6e3a36cad"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="808"
+   name="RegAssassin.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-06-18T06:42:31.000000Z"
+   checksum="838bc91e9c992ea87e2c4ff8a38ea082"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

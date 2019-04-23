@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="923"
+   name=""
+   committed-date="2004-07-06T00:19:07.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Digest/Perl"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="923"
+   name="MD5.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-07-06T00:19:07.000000Z"
+   checksum="b6d7117e230853ee28f307116e7b1492"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

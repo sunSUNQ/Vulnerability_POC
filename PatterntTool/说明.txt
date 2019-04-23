@@ -1,0 +1,1 @@
+先安装ActivePerl，然后将lib文件夹覆盖安装目标下的lib文件夹。

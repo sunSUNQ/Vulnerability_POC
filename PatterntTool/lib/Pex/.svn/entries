@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3808"
+   name=""
+   committed-date="2006-08-08T04:45:43.495992Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="540"
+   name="RawPackets.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-04-02T07:57:40.000000Z"
+   checksum="d407ec98efc2cf1ceeb214b69487d376"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Poly"
+   kind="dir"/>
+<entry
+   committed-rev="1989"
+   name="SPARC.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-02-24T22:20:55.000000Z"
+   checksum="2385c57514183bff089d266a6bf179d6"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2023"
+   name="SunRPC.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-03-13T22:33:30.000000Z"
+   checksum="e2090dee1d730aa5c8865165f519400a"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Encoding"
+   kind="dir"/>
+<entry
+   name="Socket"
+   kind="dir"/>
+<entry
+   committed-rev="1677"
+   name="Encoder.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="6ff13afe4bd090e2db59d1e9730ed5c4"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2302"
+   name="PEInfo.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2006-04-13T17:41:49.000000Z"
+   checksum="b5e61d6aa4a0799b371405532cd43957"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2255"
+   name="SMB.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-12-31T16:03:01.000000Z"
+   checksum="a5a4db91de39e6023c98b400f0b09b79"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1891"
+   name="ELFInfo.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-01-10T23:51:37.000000Z"
+   checksum="66b42643fb6471f33d6135f0ccad5e76"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2175"
+   name="BEServerRPC.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-08-04T21:00:43.000000Z"
+   checksum="733c68f61afaf2724817dfb3dbd05d7e"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Nasm"
+   kind="dir"/>
+<entry
+   name="Meterpreter"
+   kind="dir"/>
+<entry
+   committed-rev="2236"
+   name="NDR.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-12-02T01:44:42.000000Z"
+   checksum="97bfd812b2c65f0d02c0b931493cc8a2"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="546"
+   name="Struct.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-04-03T02:20:24.000000Z"
+   checksum="0ac348ea6fa724f355abc0238bd4997a"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2320"
+   name="Text.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2006-05-23T04:59:47.000000Z"
+   checksum="e956a39f6203875937c0d13b85a86ea8"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="2164"
+   name="jBASE.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-06-25T11:41:57.000000Z"
+   checksum="f18fca226093942f2be73541603de523"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1924"
+   name="Alpha.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-01-22T20:14:22.000000Z"
+   checksum="17c08f3c12f5ffa3984879481f8c563a"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1743"
+   name="x86.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-01-02T03:40:05.000000Z"
+   checksum="d7f76ed2fb6647c1d0a9fcbc4c271f1d"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="PsuedoShell.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="3fefe4464fd5c60374da67f9bbfde429"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1973"
+   name="Arkeia.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-02-20T11:47:00.000000Z"
+   checksum="c215ee853e7ce246c4b22197858b6f18"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Searcher.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="2c1eb810adefe9f389ae471a345ca084"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="2023"
+   name="XDR.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2005-03-13T22:33:30.000000Z"
+   checksum="37e5f84d528dd846eb0f13249d8ef77f"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="MSSQL.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="ab73e656fb0d8c8f649326f84dd188eb"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="3737"
+   name="DCERPC.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2006-06-29T03:50:15.617905Z"
+   checksum="e2c087cb169d09a44331595317de28db"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="3808"
+   name="Utils.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2006-08-08T04:45:43.495992Z"
+   checksum="abe15e4bf4e5601b7b2478ae728cf666"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+<entry
+   committed-rev="1024"
+   name="RawSocket.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-07-19T08:51:15.000000Z"
+   checksum="5034ef2aed1a49032d761b162ebead25"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:13.000000Z"/>
+</wc-entries>

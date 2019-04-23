@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1217"
+   name=""
+   committed-date="2004-09-17T13:44:55.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Pex/Poly/BlockMaster"
+   last-author="spoonm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1217"
+   name="Block.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-09-17T13:44:55.000000Z"
+   checksum="433ca67efbe402c5452eb32b96a9d9a0"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

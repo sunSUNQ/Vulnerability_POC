@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4082"
+   name=""
+   committed-date="2006-10-29T00:43:28.941289Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   name="Encoder"
+   kind="dir"/>
+<entry
+   committed-rev="1677"
+   name="Config.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="2bfff497071bd29d00a661156c284f5d"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="4067"
+   name="Base.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2006-10-28T19:38:45.561491Z"
+   checksum="5f68bd3331732df22e3cdde2275ace54"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="EncodedPayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="b7690c3f9e52e956f2f902ab5f535fd1"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1748"
+   name="WebUI.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-02T05:07:57.000000Z"
+   checksum="0e6b54fc7999e07872b55498146f35f9"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Socket"
+   kind="dir"/>
+<entry
+   committed-rev="1993"
+   name="UI.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-03-01T09:35:31.000000Z"
+   checksum="9665c70ed665b60c8ccf12aa539d9e20"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Encoder.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="73175e897ca3bd62dcb37a0cfb6d7dbb"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Nop"
+   kind="dir"/>
+<entry
+   committed-rev="2236"
+   name="TextUI.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-12-02T01:44:42.000000Z"
+   checksum="4e13559943b390e0c035f059a387fd32"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2236"
+   name="Exploit.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-12-02T01:44:42.000000Z"
+   checksum="7dda0ff3b41b25aa10a31b959830fa22"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2290"
+   name="Module.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2006-03-30T07:31:19.000000Z"
+   checksum="9dbe924f499d213cb81da52c2be18988"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1111"
+   name="Logging.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-07-25T01:58:09.000000Z"
+   checksum="3e8db6b2097206f9efafa0f242705483"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Payload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="6c271007db46ee1f739c105163aa4628"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="581"
+   name="ColPrint.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-04-04T03:12:48.000000Z"
+   checksum="fbe154f83663448d570da0d91e7eb8c3"
+   last-author="spoonm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="Nop.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="51519200e370fe473ca0b4e5d12dcfdd"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1767"
+   name="Logo.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-02T18:08:02.000000Z"
+   checksum="8a7f53c6a4a68cb00719fa8356e67e88"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="PayloadComponent"
+   kind="dir"/>
+</wc-entries>

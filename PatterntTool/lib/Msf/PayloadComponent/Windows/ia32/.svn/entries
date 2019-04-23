@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2189"
+   name=""
+   committed-date="2005-08-19T08:23:47.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent/Windows/ia32"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1658"
+   name="InjectLibStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="96eea4076e85b8f41b716e5442fcf751"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2189"
+   name="InjectVncStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-19T08:23:47.000000Z"
+   checksum="3fa2859e9857c44c515f76814aa10b07"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2082"
+   name="PassiveXStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-05-07T17:58:57.000000Z"
+   checksum="bbffec6e0a5ffde7d6919c28e8324c35"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="ReverseOrdinalStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="1f32f145731f54f565d98221cedb1330"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="ShellStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="f8e8486be1de1da7376e96755c67ee28"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="PipedShellStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="492192e663c9df86018004d4624c2755"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="UploadExecStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="98209b3dc1a52eb3acabf735aac2c1ce"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1667"
+   name="FindRecvOrdinalStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-23T06:49:02.000000Z"
+   checksum="79a8d0e59bdb20e5de73c8ec1615feb7"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1667"
+   name="InjectMeterpreterStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-23T06:49:02.000000Z"
+   checksum="b90ef192956fd7d188d60b6ea0f6af42"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1735"
+   name="ReverseStagerIE.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-01T11:29:28.000000Z"
+   checksum="afb1c3825bf53c6ac8cb8c46cbefab3e"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1735"
+   name="BindStagerIE.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-01T11:29:28.000000Z"
+   checksum="6bc1db7c4b52dced59c34f6fc81a12c3"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2154"
+   name="ExecuteCommand.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-06-23T21:42:34.000000Z"
+   checksum="965ec7f9248b4362ea40d00db774e8a0"
+   last-author="vlad902"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="ReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="ba7f71dffd49635cd722174cf7ec67ca"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="BindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="c982413e46ea3ead12d7f6d1f11c89e3"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

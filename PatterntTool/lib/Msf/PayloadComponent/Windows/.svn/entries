@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4082"
+   name=""
+   committed-date="2006-10-29T00:43:28.941289Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent/Windows"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="1667"
+   name="FindRecvStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-23T06:49:02.000000Z"
+   checksum="06e51045116cc503e8a513e78c3a2a1e"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2004"
+   name="PassiveXStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-03-08T06:56:27.000000Z"
+   checksum="a4ce55b80f3e166821cbba48936a236d"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1839"
+   name="Payload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-01-08T20:24:05.000000Z"
+   checksum="7331052ffc0db7437dd5fb767ba913cf"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="StagePayloadIE.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="04da5d2b7167573a0d59a60bbbcb3d28"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="4082"
+   name="StagePayload.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2006-10-29T00:43:28.941289Z"
+   checksum="877c0d9b4f614cf365dc4f09478ad2d7"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1677"
+   name="ReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="261f2a6bb5475b194652632649c1c18d"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1658"
+   name="BindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-22T06:18:33.000000Z"
+   checksum="d23e431f770814712f196f679c38a843"
+   last-author="mmiller"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="ia32"
+   kind="dir"/>
+</wc-entries>

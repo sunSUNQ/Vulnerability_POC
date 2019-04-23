@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2173"
+   name=""
+   committed-date="2005-08-04T21:00:07.000000Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib/Msf/PayloadComponent/OSX/ppc"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   committed-rev="2173"
+   name="ReverseNFStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-04T21:00:07.000000Z"
+   checksum="93fafe724f999e06104d482df3ef31de"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2173"
+   name="FindRecvStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-04T21:00:07.000000Z"
+   checksum="60e8b40ec8cabb610fe08bf02f1b669c"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2173"
+   name="FindRecvPeekStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-04T21:00:07.000000Z"
+   checksum="62dd5325d76098aac651cb539ae2bd9b"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1613"
+   name="ShellStage.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T12:53:49.000000Z"
+   checksum="dc842d382139964895d0c0a01d04887a"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="2173"
+   name="ReverseStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2005-08-04T21:00:07.000000Z"
+   checksum="fa07b42a0451228edeec8261e8ea595e"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="1613"
+   name="BindStager.pm"
+   text-time="2006-10-29T00:47:12.000000Z"
+   committed-date="2004-12-18T12:53:49.000000Z"
+   checksum="8e305754d546c1d17b572bc893d6b80e"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+</wc-entries>

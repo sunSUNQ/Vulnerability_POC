@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4082"
+   name=""
+   committed-date="2006-10-29T00:43:28.941289Z"
+   url="https://metasploit.com/svn/framework2/tags/framework-2.7/lib"
+   last-author="hdm"
+   kind="dir"
+   uuid="4d416f70-5f16-0410-b530-b9f4589650da"
+   repos="https://metasploit.com/svn"
+   revision="4663"/>
+<entry
+   name="Digest"
+   kind="dir"/>
+<entry
+   name="Msf"
+   kind="dir"/>
+<entry
+   committed-rev="1677"
+   name="Pex.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-12-25T10:09:49.000000Z"
+   checksum="0fedf5c5d5f1c72384f8437d7b744a0f"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   committed-rev="486"
+   name="NetPacket.pm"
+   text-time="2006-10-29T00:47:13.000000Z"
+   committed-date="2004-03-26T06:23:34.000000Z"
+   checksum="a50adedf49d0eeea342fa3ed552d527b"
+   last-author="hdm"
+   kind="file"
+   prop-time="2006-10-29T00:47:12.000000Z"/>
+<entry
+   name="Pex"
+   kind="dir"/>
+<entry
+   name="NetPacket"
+   kind="dir"/>
+</wc-entries>
